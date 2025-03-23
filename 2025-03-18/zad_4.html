@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="s33087" />
+    <title>Zadanie 4</title>
+    <style>
+      p {
+        margin: 0;
+        font-weight: bold;
+      }
+
+      div.parent {
+        background-color: lightgray;
+      }
+
+      div.parent > div {
+        color: red;
+        font-size: 0.8em;
+      }
+
+      div.parent > div + p {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent">
+      <p>Tekst w elemencie potomnym</p>
+      <p>Tekst w elemencie potomnym</p>
+      <div>
+        <p>Tekst w elemencie wnuku</p>
+      </div>
+      <p>Tekst w elemencie potomnym</p>
+    </div>
+  </body>
+</html>
