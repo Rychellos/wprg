@@ -31,3 +31,9 @@
 ---
 
 ### Zajęcia 25.03.2025
+
+- [zadanie 1](2025-03-25/zad_1.html)
+- [zadanie 2](2025-03-25/zad_2.html)
+- [zadanie 3](2025-03-25/zad_3.html)
+- [zadanie 4](2025-03-25/zad_4.html)
+- [zadanie 5](2025-03-25/zad_5.html)
