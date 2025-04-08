@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zadanie 4</title>
+    <meta name="author" content="s33087" />
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+      }
+
+      header {
+        background-color: #eee;
+      }
+
+      .navbar {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        padding: 1em 0;
+        text-align: center;
+      }
+
+      .navbar a {
+        text-decoration: none;
+        color: #333;
+        font-size: 1.2em;
+      }
+
+      .main-content {
+        padding: 2em;
+        display: grid;
+        gap: 1em;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .main-content h1 {
+        font-size: 2em;
+        margin-bottom: 1.5em;
+        word-wrap: break-word;
+      }
+
+      .features-container {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+      }
+
+      .top-row,
+      .bottom-row {
+        display: flex;
+        gap: 1em;
+      }
+
+      .feature {
+        flex: 1;
+        border: 1px solid #ccc;
+        padding: 1em;
+      }
+
+      .feature h2 {
+        margin-top: 0;
+      }
+
+      .extra {
+        flex: 1;
+        border: 1px solid #ccc;
+        padding: 1em;
+      }
+
+      footer {
+        background-color: #eee;
+        text-align: center;
+        padding: 1em;
+        margin-top: 2em;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <a href="#">Strona główna</a>
+        <a href="#">O nas</a>
+        <a href="#">Kontakt</a>
+      </nav>
+    </header>
+
+    <main class="main-content">
+      <h1>Witaj na naszej skomplikowanej stronie!</h1>
+
+      <div class="features-container">
+        <div class="top-row">
+          <div class="feature">
+            <h2>Funkcja 1</h2>
+            <p>Opis funkcji 1...</p>
+          </div>
+          <div class="feature">
+            <h2>Funkcja 2</h2>
+            <p>Opis funkcji 2...</p>
+          </div>
+        </div>
+        <div class="bottom-row">
+          <div class="feature">
+            <h2>Funkcja 3</h2>
+            <p>Opis funkcji 3...</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="extra">
+        <h2>Dodatkowe informacje</h2>
+        <p>...</p>
+      </div>
+    </main>
+
+    <footer>
+      <p>
+        © 2023 Skomplikowana strona z flexboxem. Wszelkie prawa zastrzeżone.
+      </p>
+    </footer>
+  </body>
+</html>
