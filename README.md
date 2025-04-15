@@ -46,3 +46,11 @@
 - [zadanie 2](2025-04-01/zad_2.html)
 - [zadanie 3](2025-04-01/zad_3.html)
 - [zadanie 4](2025-04-01/zad_4.html)
+
+### Zajęcia 08.04.2025
+
+- [zadanie 1](2025-04-08/zad_1.php)
+- [zadanie 2](2025-04-08/zad_2.php)
+- [zadanie 3](2025-04-08/zad_3.php)
+- [zadanie 4](2025-04-08/zad_4.php)
+- [zadanie 5](2025-04-08/zad_5.php)
