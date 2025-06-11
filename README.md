@@ -76,3 +76,29 @@
 - [zadanie 3](2025-04-29/zad_3.php)
 - [zadanie 4](2025-04-29/zad_4.php)
 - [zadanie 5](2025-04-29/zad_5.php)
+
+---
+
+### Zajęcia 13.05.2025
+
+- [zadanie 1](2025-05-13/zad_1.php)
+- [zadanie 2](2025-05-13/zad_2.php)
+- [zadanie 3](2025-05-13/zad_3.php)
+- [zadanie 4](2025-05-13/zad_4.php)
+- [zadanie 5](2025-05-13/zad_5.php)
+
+### Zajęcia 20.05.2025
+
+- [zadanie 1](2025-05-20/zad_1.php)
+- [zadanie 2](2025-05-20/zad_2.php)
+- [zadanie 3](2025-05-20/zad_3.php)
+- [zadanie 4 rejestracja](2025-05-20/zad_4_register.php)
+- [zadanie 5 logowanie](2025-05-20/zad_4_login.php)
+
+### Zajęcia 26.05.2025
+
+- [Nowe auto](2025-05-26/newCar.php)
+- [Auto z dodatkami](2025-05-26/carWithExtras.php)
+- [Ubezpieczenia](2025-05-26/insurance.php)
+- [Produkt](2025-05-26/product.php)
+- [Cart](2025-05-26/cart.php)

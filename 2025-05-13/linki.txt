@@ -1,0 +1,3 @@
+https://www.google.com;Wyszukiwarka Google
+https://www.wikipedia.org;Encyklopedia Wikipedia
+https://www.php.net;Oficjalna strona PHP
